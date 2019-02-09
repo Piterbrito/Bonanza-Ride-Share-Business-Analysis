@@ -10,7 +10,6 @@ You've since been given access to the company's complete recordset of rides. Thi
 
 Your objective is to build a Bubble Plot that showcases the relationship between four key variables:
 #
-#
 Average Fare ($) Per City
 
 Total Number of Rides Per City
@@ -22,7 +21,6 @@ City Type (Urban, Suburban, Rural)
 #
 In addition, you will be expected to produce the following three pie charts:
 #
-#
 % of Total Fares by City Type
 
 % of Total Rides by City Type
@@ -31,7 +29,6 @@ In addition, you will be expected to produce the following three pie charts:
 #
 #
 As final considerations:
-#
 #
 You must use the Pandas Library and the Jupyter Notebook.
 
