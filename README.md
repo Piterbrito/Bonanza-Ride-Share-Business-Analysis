@@ -20,9 +20,7 @@ Total Number of Drivers Per City
 City Type (Urban, Suburban, Rural)
 #
 #
-#
 In addition, you will be expected to produce the following three pie charts:
-#
 #
 #
 % of Total Fares by City Type
@@ -30,11 +28,11 @@ In addition, you will be expected to produce the following three pie charts:
 % of Total Rides by City Type
 
 % of Total Drivers by City Type
-
-
+#
+#
 As final considerations:
-
-
+#
+#
 You must use the Pandas Library and the Jupyter Notebook.
 
 You must use the Matplotlib library.
