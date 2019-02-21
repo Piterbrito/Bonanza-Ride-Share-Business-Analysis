@@ -1,13 +1,12 @@
-# Background
-
 # Bonanza-Ride-Share-Business-Analysis
-Python 3, Mat-plot Lib, Pandas, Numpy
+
+# Background
 
 Seeing the success of notable players like Uber and Lyft, you've decided to join a fledgling ride sharing company of your own. In your latest capacity, you'll be acting as Chief Data Strategist for the company. In this role, you'll be expected to offer data-backed guidance on new opportunities for market differentiation.
 
 You've since been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
-
+# Goal
 Your objective is to build a Bubble Plot that showcases the relationship between four key variables:
 #
 Average Fare ($) Per City
@@ -18,7 +17,6 @@ Total Number of Drivers Per City
 
 City Type (Urban, Suburban, Rural)
 #
-#
 In addition, you will be expected to produce the following three pie charts:
 #
 % of Total Fares by City Type
@@ -27,18 +25,13 @@ In addition, you will be expected to produce the following three pie charts:
 
 % of Total Drivers by City Type
 #
-#
-As final considerations:
-#
-You must use the Pandas Library and the Jupyter Notebook.
 
-You must use the Matplotlib library.
+# Findings
 
-You must include a written description of three observable trends based on the data.
+![x](Images/Bubleplot.png)
 
-You must use proper labeling of your plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, Wedge Percentages, and Wedge Labels.
+![x](Images/Pie_FarebyCityType.png)
 
-Remember when making your plots to consider aesthetics!
+![x](Images/Pie_Drice_byCityType.png)
 
-
-You must stick to the Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
+![x](Images/Pie_Ride_byCityType.png)
